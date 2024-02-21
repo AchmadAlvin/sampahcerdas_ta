@@ -3,7 +3,7 @@ import RPi.GPIO as GPIO
 import time
 import requests
 
-UBIDOTS_TOKEN = 'BBFF-EvIMYWATzgqXOOEgWzoZ0pt4aWjLSC'
+UBIDOTS_TOKEN = 'abcdefg bilang makasih kont'
 DEVICE_LABEL = 'tugasakhir'
 VARIABLE_LABEL = 'ultrasonik'
 
